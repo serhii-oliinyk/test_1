@@ -1,6 +1,2 @@
 1. new file
 2. done
-3.
-4. help
-5. create
-6. fail
